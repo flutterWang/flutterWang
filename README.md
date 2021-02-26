@@ -9,6 +9,5 @@
 <hr>
 
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=flutterWang" alt="visitor badges"/>
 <img src="https://komarev.com/ghpvc/?username=flutterWang&label=Visitors" alt="visitor badge"/>       
 </p>
